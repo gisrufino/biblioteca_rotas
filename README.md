@@ -1,6 +1,5 @@
 # biblioteca_rotas
 uma aplicação para biblioteca com a rota inicial e a rota do livro
-Crie uma aplicação para biblioteca com as seguintes rotas
 ================================================
 
 ROTA                             DESCRICAO
